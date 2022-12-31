@@ -1,10 +1,10 @@
-package delete;
+package dataformat;
 
-public class Test {
+public class DataFormatting {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("it works");
+
 	}
 
 }
