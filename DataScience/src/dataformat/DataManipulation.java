@@ -47,5 +47,6 @@ public class DataManipulation {
 
 		List<String> employeeName = employees.stream().map((employee) -> employee.name).collect(Collectors.toList());
 		System.out.println(employeeName);
+		///
 	}
 }
